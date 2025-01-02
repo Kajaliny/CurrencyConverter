@@ -27,12 +27,12 @@ button {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  background-color: #6200ea;
+  background-color: #1f618d;
   color: white;
 }
 
 button:hover {
-  background-color: #3700b3;
+  background-color: #09ce79;
 }
 
 h3 {

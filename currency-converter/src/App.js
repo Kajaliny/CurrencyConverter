@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './components/Header';
-import Converter from './components/Converter';
+import Header from './componenents/Header';
+import Converter from './componenents/Converter';
 import './App.css';
 
 const App = () => {
